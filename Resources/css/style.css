@@ -1,6 +1,16 @@
 body {
   background-color: black;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Verdana", sans-serif;
   text-align: center;
   color: white;
+}
+
+#masthead h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+a.download {
+  color: aquamarine;
+  font-size: 16px;
 }
