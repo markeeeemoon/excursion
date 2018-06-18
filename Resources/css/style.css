@@ -14,3 +14,8 @@ a.download {
   color: aquamarine;
   font-size: 16px;
 }
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
