@@ -28,3 +28,8 @@ h2 {
 #footer {
   margin-top: 1em;
 }
+
+#copyright {
+  text-align:right;
+  color: gray;
+}
